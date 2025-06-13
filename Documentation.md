@@ -48,3 +48,63 @@ V roce 2018 došlo ke zvýšení kupní síly průměrné přepočtené mzdy (ze
 | 2018 | Chléb konzumní kmínový          | 24.24       | kg   | 1365.16           |
 | 2018 | Mléko polotučné pasterované     | 19.82       | l    | 1669.60           |
 
+
+3. Otázka: Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?
+
+Odpověď:
+Nejpomaleji v průměru zdrařoval cukr se záporným meziročním percentuálním nárůstem -1.92 %. Zlevňovaly ve sledovaném období v průměru také rajčata o 0,74 %. 
+Nejrychleji zdražující potravinou byly papriky s meziročním percentuálním nárůstem 7.29 %. Sledované období je 2006 až 2018.
+V případě položky Jakostní víno bílé nezle přesně určit nárust, protože zde chybí data za za období 2015-2018.
+
+| cat_name                              | avg_annual_percent_change |
+|----------------------------------------|-------------------------------|
+| Cukr krystalový                        | -1.92                         |
+| Rajská jablka červená kulatá           | -0.74                         |
+| Banány žluté                           | 0.81                          |
+| Vepřová pečeně s kostí                 | 0.99                          |
+| Přírodní minerální voda uhličitá       | 1.02                          |
+| Šunkový salám                          | 1.85                          |
+| Jablka konzumní                        | 2.01                          |
+| Pečivo pšeničné bílé                   | 2.20                          |
+| Hovězí maso zadní bez kosti            | 2.53                          |
+| Kapr živý                              | 2.60                          |
+| Jakostní víno bílé                     | 2.70                          |
+| Pivo výčepní, světlé, lahvové          | 2.85                          |
+| Eidamská cihla                         | 2.92                          |
+| Mléko polotučné pasterované            | 2.98                          |
+| Rostlinný roztíratelný tuk             | 3.23                          |
+| Kuřata kuchaná celá                    | 3.38                          |
+| Pomeranče                              | 3.60                          |
+| Jogurt bílý netučný                    | 3.95                          |
+| Chléb konzumní kmínový                 | 3.97                          |
+| Konzumní brambory                      | 4.18                          |
+| Rýže loupaná dlouhozrnná               | 5.00                          |
+| Pšeničná mouka hladká                  | 5.24                          |
+| Mrkev                                  | 5.24                          |
+| Těstoviny vaječné                      | 5.26                          |
+| Vejce slepičí čerstvá                  | 5.55                          |
+| Máslo                                  | 6.67                          |
+| Papriky                                | 7.29                          |
+
+
+4. Otázka: Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?
+
+Odpověď:
+Nejvýraznější rozdíl nastal v roce 2009 (o 9.49%) a naopak nejmenší nastal hned poté v roce 2010 (o 0.03%).
+V žádném ve sledovaném období tedy nedošlo k rozdílu většímu než 10%.
+
+| Year | Avg Pay Rise (%) | Avg Price Rise (%) | Difference (%) |
+|------|------------------|---------------------|----------------|
+| 2007 | 6.88             | 6.76                | -0.12          |
+| 2008 | 7.69             | 6.19                | -1.51          |
+| 2009 | 3.07             | -6.42               | -9.49          |
+| 2010 | 1.91             | 1.95                | 0.03           |
+| 2011 | 2.33             | 3.35                | 1.02           |
+| 2012 | 2.93             | 6.73                | 3.80           |
+| 2013 | -1.56            | 5.10                | 6.65           |
+| 2014 | 2.57             | 0.74                | -1.83          |
+| 2015 | 2.60             | -0.55               | -3.15          |
+| 2016 | 3.64             | -1.19               | -4.83          |
+| 2017 | 6.17             | 9.63                | 3.46           |
+| 2018 | 7.70             | 2.17                | -5.53          |
+
