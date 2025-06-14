@@ -18,4 +18,6 @@ Připravil jsem sestavu dotazů, které zodpovídají otázky v zadání projekt
 
 `Task_1.sql`, `Task_2.sql`, `Task_3.sql`, `Task_4.sql`, `Task_5.sql`
 
+Odpovědi na výzkumné otázky naleznete v `Documentation.md`
+
 Autor: Roman Šimík 
