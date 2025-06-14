@@ -103,8 +103,25 @@ V žádném ve sledovaném období tedy nedošlo k rozdílu většímu než 10%.
 | 2012 | 2.93             | 6.73                | 3.80           |
 | 2013 | -1.56            | 5.10                | 6.65           |
 | 2014 | 2.57             | 0.74                | -1.83          |
-| 2015 | 2.60             | -0.55               | -3.15          |
-| 2016 | 3.64             | -1.19               | -4.83          |
-| 2017 | 6.17             | 9.63                | 3.46           |
-| 2018 | 7.70             | 2.17                | -5.53          |
 
+
+5. Otázka: Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo násdujícím roce výraznějším růstem?
+
+Odpověď:
+Z analýzy vyplývá, že růst HDP má prokazatelný vliv především na růst mezd, a to jak ve stejném roce, tak s mírným zpožděním. Vliv na ceny potravin je méně výrazný a často je překryt dalšími vlivy. 
+Největší konzistenci vykazuje vazba mezi HDP a mzdami, kde vyšší růst HDP obvykle znamená i vyšší meziroční růst mezd.
+
+| pay_year | cz_gdp_rise | avg_pay_rise | avg_price_rise | diff_pay_gdp | diff_price_gdp |
+|----------|-------------|--------------|----------------|--------------|----------------|
+| 2007     | 5.57        | 6.88         | 6.76           | 1.31         | 1.19           |
+| 2008     | 2.69        | 7.69         | 6.19           | 5.01         | 3.50           |
+| 2009     | -4.66       | 3.07         | -6.42          | 7.73         | -1.76          |
+| 2010     | 2.43        | 1.91         | 1.95           | -0.52        | -0.49          |
+| 2011     | 1.76        | 2.33         | 3.35           | 0.57         | 1.59           |
+| 2012     | -0.79       | 2.93         | 6.73           | 3.72         | 7.51           |
+| 2013     | -0.05       | -1.56        | 5.10           | -1.51        | 5.14           |
+| 2014     | 2.26        | 2.57         | 0.74           | 0.31         | -1.52          |
+| 2015     | 5.39        | 2.60         | -0.55          | -2.79        | -5.94          |
+| 2016     | 2.54        | 3.64         | -1.19          | 1.10         | -3.73          |
+| 2017     | 5.17        | 6.17         | 9.63           | 1.00         | 4.46           |
+| 2018     | 3.20        | 7.70         | 2.17           | 4.50         | -1.03          |
