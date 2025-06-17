@@ -1,8 +1,8 @@
 --primírní tabulka
-CREATE TABLE t_roman_simik_project_SQL_primary_final AS
+CREATE TABLE t_roman_simik_project_sql_primary_final AS
 	SELECT
 		cpay.payroll_year AS pay_year, 
-		ROUND(AVG(cpay.value)::NUMERIC, 2) AS avg_payroll, -- Přetypování na NUMERIC
+		ROUND(AVG(cpay.value)::NUMERIC, 2) AS avg_payroll,
 		cpib.name AS branch_name, 
 		NULL AS avg_price,
 		NULL AS cat_name,
@@ -33,7 +33,7 @@ CREATE TABLE t_roman_simik_project_SQL_primary_final AS
 	;
 
 --sekundární tabulka
-CREATE TABLE t_roman_simik_project_SQL_secondary_final AS
+CREATE TABLE t_roman_simik_project_sql_secondary_final AS
 	SELECT 
 		e.country,
 		e.year,
